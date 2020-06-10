@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/iconHamburger"
+        android:icon="@drawable/hamburger"
+        app:showAsAction="always"
+        android:title="Other">
+        <menu>
+            <item
+                android:icon="@drawable/logout"
+                android:id="@+id/logout"
+                android:title="Logout">
+
+            </item>
+
+            <item
+                android:icon="@drawable/help"
+                android:id="@+id/help"
+                android:title="Help">
+
+            </item>
+            <item
+                android:icon="@drawable/feedback"
+                android:id="@+id/feedback"
+                android:title="Feedback">
+
+            </item>
+
+
+        </menu>
+
+    </item>
+
+</menu>

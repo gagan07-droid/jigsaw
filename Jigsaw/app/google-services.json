@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "95465443648",
+    "firebase_url": "https://jigsaw-34fc8.firebaseio.com",
+    "project_id": "jigsaw-34fc8",
+    "storage_bucket": "jigsaw-34fc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95465443648:android:90c7af25f597caf8daeaa5",
+        "android_client_info": {
+          "package_name": "com.finalproject.jigsaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95465443648-fhoijt9oqplbro9v5qeq64usqjhlcokm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsjk6SFBD2oyb_JcCNFpcAg8KWGBHnoEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95465443648-fhoijt9oqplbro9v5qeq64usqjhlcokm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
